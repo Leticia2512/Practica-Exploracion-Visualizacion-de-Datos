@@ -28,7 +28,8 @@ interactivo para responder preguntas relevantes sobre los datos, como por ejempl
 ---
 
 ## 📊 Dataset
-Para el desarrollo del dashboard se ha utilizado el dataset **Superstore**, que puedes descargar aquí: [Superstore.csv](https://archive.ics.uci.edu/dataset/9/auto+mpg)  
+
+Para el desarrollo del dashboard se ha utilizado el dataset **Superstore.csv**, que puedes descargar aquí: [Superstore.csv](https://github.com/Leticia2512/Practica-Exploracion-Visualizacion-de-Datos/blob/main/Superstore.csv).
 
 ---
 
@@ -44,6 +45,10 @@ El dashboard incluye las siguientes vistas:
    - **Ventas por Año y Trimestre**: Evolución de ventas anuales y trimestrales.
 
 Para una mejor interacción y exploración de los datos se han usado *slicers* para filtrar por región y por fecha.
+
+Puedes visualizar el dashboard aquí:
+[Ver Dashboard](https://github.com/Leticia2512/Practica-Exploracion-Visualizacion-de-Datos/blob/main/Practica_PowerBI_SuperstoreSales_Dataset.pbix).
+
 
 ---
 
