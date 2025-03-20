@@ -43,7 +43,7 @@ El dashboard incluye las siguientes vistas:
 3. **Gráfico de líneas:**  
    - **Ventas por Año y Trimestre**: Evolución de ventas anuales y trimestrales.
 
-He usado slicers para filtrar por Región y Fecha, para mejora las posibilidades de interacción y exploración de los datos.
+Para una mejor interacción y exploración de los datos se han usado *slicers* para filtrar por región y por fecha.
 
 ---
 
