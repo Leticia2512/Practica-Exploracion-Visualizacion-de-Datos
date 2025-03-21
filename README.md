@@ -2,7 +2,7 @@
 ### Bootcamp Big Data, Machine Learning & IA_Keepcoding
 ___
 
-Este repositorio contiene el desarrollo de una práctica de **exploración y visualización de datos** utilizando **Power BI**. A partir del dataset **Superstore.csv**, se han calculado KPIs clave y se ha diseñado un dashboard 
+Este repositorio contiene el desarrollo de una práctica de **exploración y visualización de datos** utilizando **Power BI**. A partir del dataset **Superstore**, se han calculado KPIs clave y se ha diseñado un dashboard 
 interactivo para responder preguntas relevantes sobre los datos, como por ejemplo:
 
 - ¿Cuáles son las categorías de productos más vendidas en cada región?
@@ -29,7 +29,7 @@ interactivo para responder preguntas relevantes sobre los datos, como por ejempl
 
 ## 📊 Dataset
 
-Para el desarrollo del dashboard se ha utilizado el dataset **Superstore.csv**, que puedes descargar aquí: [Superstore.csv](https://github.com/Leticia2512/Practica-Exploracion-Visualizacion-de-Datos/blob/main/Superstore.csv).
+Para el desarrollo del dashboard se ha utilizado el siguiente dataset: [Superstore](https://github.com/Leticia2512/Practica-Exploracion-Visualizacion-de-Datos/blob/main/Superstore.csv).
 
 ---
 
