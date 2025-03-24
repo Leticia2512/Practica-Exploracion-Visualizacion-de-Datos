@@ -13,7 +13,7 @@ interactivo para responder preguntas relevantes sobre los datos, como por ejempl
 ---
 
 ## 🎯 Objetivos del Proyecto
-- **Cálculo de KPIs relevantes con power query:**  
+- **Cálculo de los siguientes KPIs relevantes con power query:**  
   - **Total Sales:** Ventas totales.  
   - **Total Profit:** Beneficio total.  
   - **Profit Margin:** Margen de beneficio.  
@@ -29,7 +29,7 @@ interactivo para responder preguntas relevantes sobre los datos, como por ejempl
 
 ## 📊 Dataset
 
-Para el desarrollo del dashboard se ha utilizado el siguiente dataset: [Superstore](https://github.com/Leticia2512/Practica-Exploracion-Visualizacion-de-Datos/blob/main/Superstore.csv).
+Para el desarrollo del dashboard se ha utilizado el siguiente dataset de kaggel: [Superstore.csv](https://github.com/Leticia2512/Practica-Exploracion-Visualizacion-de-Datos/blob/main/Superstore.csv).
 
 ---
 
@@ -46,14 +46,15 @@ El dashboard incluye las siguientes vistas:
 
 Para una mejor interacción y exploración de los datos se han usado *slicers* para filtrar por región y por fecha.
 
-Puedes visualizar el dashboard aquí:
-[Ver Dashboard](https://github.com/Leticia2512/Practica-Exploracion-Visualizacion-de-Datos/blob/main/Practica_PowerBI_SuperstoreSales_Dataset.pbix).
+Puedes visualizar el dashboard en el siguiente enlace:
+[Practica_PowerBI_SuperstoreSales_Dataset.pbix](https://github.com/Leticia2512/Practica-Exploracion-Visualizacion-de-Datos/blob/main/Practica_PowerBI_SuperstoreSales_Dataset.pbix).
 
 
 ---
 
-## 🛠️ Herramientas Utilizadas
-Herramienta de exploración y visualización Power BI
+## 🛠️ Lenguajes y Herramientas Utilizadas
+- **DAX (Data Analysis Expressions)**: para cálculos y medidas en Power BI.
+- **Herramienta de exploración y visulacización**: Power BI.
 
 ___
 
